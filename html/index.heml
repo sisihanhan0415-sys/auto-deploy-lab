@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+  <html>
+  <head>
+  <title>自动化部署实验</title>
+  </head>
+  <body>
+  <h1>Hello, I am ChenSihan!</h1>
+  <p>这是GitHub Actions自动部署的网页</p>
+  </body>
+  </html>
